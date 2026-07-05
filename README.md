@@ -176,6 +176,17 @@ CSV Export + FastAPI Response
 | Resume2.pdf | 71.2 | 73.5 | 76.9 | Recommended |
 
 ---
+## Swagger UI
+
+![Swagger UI](images/swagger.png)
+
+---
+
+## Resume Ranking API
+
+![Rank API](images/rank_result.png)
+
+---
 
 ## Future Improvements
 
