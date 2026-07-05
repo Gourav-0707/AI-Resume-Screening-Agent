@@ -1,0 +1,23 @@
+AI Engineer
+
+Skills Required:
+- Python
+- Machine Learning
+- Deep Learning
+- FastAPI
+- Docker
+- Git
+- SQL
+- REST APIs
+- Prompt Engineering
+- Large Language Models (LLMs)
+- RAG
+- LangChain
+- Communication Skills
+
+Responsibilities:
+- Build AI applications
+- Develop REST APIs
+- Work with machine learning models
+- Deploy AI solutions
+- Collaborate with teams
