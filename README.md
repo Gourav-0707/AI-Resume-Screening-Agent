@@ -178,13 +178,13 @@ CSV Export + FastAPI Response
 ---
 ## Swagger UI
 
-![Swagger UI](images/swagger.png)
+![Swagger UI](images/swagger.png.png)
 
 ---
 
 ## Resume Ranking API
 
-![Rank API](images/rank_result.png)
+![Rank API](images/rank_result.png.png)
 
 ---
 
